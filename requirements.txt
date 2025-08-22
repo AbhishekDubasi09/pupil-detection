@@ -10,7 +10,7 @@ opencv-python
     python main.py
     ```
 
-3. Press `esc` to quit.
+3. Press `q` to quit.
 
 ## License
 
