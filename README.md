@@ -23,3 +23,13 @@ Left Eye → cropped and resized left eye.
 Right Eye → cropped and resized right eye.
 
 Press q to exit.
+
+
+Future Improvements
+
+Pupil center detection inside cropped eyes.
+Blink detection and eye aspect ratio.
+Eye gaze direction tracking.
+Save cropped eye frames for machine learning tasks.
+
+Check the "Image Samples" file to see my work samples
