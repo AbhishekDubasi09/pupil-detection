@@ -75,8 +75,8 @@ while True:
     display_frame = cv2.resize(frame, (1280, 720))
     cv2.imshow("Webcam with Eye Boxes", display_frame)
 
-    # Press 'esc' to exit the application
-    if cv2.waitKey(1) & 0xFF == ord('esc'):
+    # Press 'q' to exit the application
+    if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
 # Cleanup after loop exit
